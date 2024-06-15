@@ -15,7 +15,7 @@ The first time I learned a programming language, around 2013 passively. and in 2
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/deemas-dee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@BhreBlambangan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/deemas-dee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.twitter.com/@BhreBlambangan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -24,8 +24,6 @@ The first time I learned a programming language, around 2013 passively. and in 2
 <a href="http://www.github.com/DeemasDee"><img src="https://github-readme-stats.vercel.app/api?username=DeemasDee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeemasDee's GitHub stats" /></a>
 
 <a href="http://www.github.com/DeemasDee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeemasDee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/DeemasDee"><img src="https://activity-graph.herokuapp.com/graph?username=DeemasDee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/DeemasDee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeemasDee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
